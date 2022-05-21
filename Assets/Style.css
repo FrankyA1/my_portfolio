@@ -6,3 +6,16 @@ body{
 hi{
     color:red;
 }
+
+h3 { 
+
+    background-color: white;
+    text-align: center;
+}
+
+.green-text{
+    color: green;
+}
+.green-text:hover{
+    color: red;
+}
