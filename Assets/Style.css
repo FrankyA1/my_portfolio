@@ -3,8 +3,8 @@ body{
 }
 
 
-hi{
-    color:red;
+h1{
+    color:black;
 }
 
 h3 { 
@@ -16,4 +16,13 @@ h3 {
 .green-text{
     color: green;
 }
+
+p {               
+					
+	line-height: 1.5em;             
+	                 
+}
+
+
+
 
